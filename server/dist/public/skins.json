@@ -1,0 +1,3490 @@
+{
+    "items": [
+        {
+            "id": 6190668,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198066836546",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 18.1,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 29816157305,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/7e19caa5f974e89578c3b2b093547c74_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+                    "preview": "https://s1.cs.money/7e19caa5f974e89578c3b2b093547c74_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 800,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.13974861800670602,
+                "inspect": "11737550509985764459",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Katowice 2019 Returning Challengers"
+                    },
+                    "name": "Sticker | Ninjas in Pyjamas (Holo) | Katowice 2019",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/nip_holo.1d5052968fa5376bde07b5ea3f6c971f2e9a1887.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-ninjas-in-pyjamas-holo-katowice-2019",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.97,
+                        "rarity": 0.5
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "London 2018 Player Autographs"
+                    },
+                    "name": "Sticker | draken (Gold) | London 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_draken_gold.919d81d9e9e38f7d778562563525889053674fce.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-draken-gold-london-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 25.66,
+                        "rarity": 2.7
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Katowice 2019 Returning Challengers"
+                    },
+                    "name": "Sticker | Ninjas in Pyjamas (Holo) | Katowice 2019",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/nip_holo.1d5052968fa5376bde07b5ea3f6c971f2e9a1887.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-ninjas-in-pyjamas-holo-katowice-2019",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.97,
+                        "rarity": 0.8
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Katowice 2019 Returning Challengers"
+                    },
+                    "name": "Sticker | Ninjas in Pyjamas (Holo) | Katowice 2019",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/nip_holo.1d5052968fa5376bde07b5ea3f6c971f2e9a1887.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-ninjas-in-pyjamas-holo-katowice-2019",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.97,
+                        "rarity": 1.2
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 55.95,
+                "priceBeforeDiscount": 61.15,
+                "extra": {
+                    "stickers": 5.2
+                },
+                "discount": -0.6352,
+                "computed": 99.99
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/7e19caa5f974e89578c3b2b093547c74"
+            }
+        },
+        {
+            "id": 8246743,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198907322479",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 3.6,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 29214734991,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 802,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.13919676840305328,
+                "inspect": "13982037112084666985",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Legends"
+                    },
+                    "name": "Sticker | Ninjas in Pyjamas (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/ninjasinpyjamas_holo.734f333fe3a950c79e8bb81c8c1ce4fc661dfcea.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-ninjas-in-pyjamas-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 105.09,
+                        "rarity": 7.6
+                    }
+                },
+                null,
+                {
+                    "collection": {
+                        "name": null
+                    },
+                    "name": "Sticker | Harp of War (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community01/harp_of_war.aa2f3779886ae27cbcc455b1c1effe904eaf93d9.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-harp-of-war-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 856.38,
+                        "rarity": 90.9
+                    }
+                },
+                null
+            ],
+            "pricing": {
+                "default": 54.81,
+                "priceBeforeDiscount": 153.31,
+                "extra": {
+                    "stickers": 98.5
+                },
+                "discount": 0.0915,
+                "computed": 139.28
+            },
+            "links": {}
+        },
+        {
+            "id": 7373028,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198446295405",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 4.65,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 28902147706,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/65ea3446d502e01642eda63ab23cf4e9_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+                    "preview": "https://s1.cs.money/65ea3446d502e01642eda63ab23cf4e9_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 128,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.114708162844181,
+                "inspect": "12126047559590517419",
+                "rank": null
+            },
+            "stickers": [
+                null,
+                {
+                    "collection": {
+                        "name": "Krakow 2017 Player Autographs"
+                    },
+                    "name": "Sticker | ropz (Foil) | Krakow 2017",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sig_ropz_foil.ffec2ec2834ba48f68a168fcda3439e062b21a79.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-ropz-foil-krakow-2017",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 491.13,
+                        "rarity": 52.2
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Boston 2018 Player Autographs"
+                    },
+                    "name": "Sticker | keev | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_keev.a7e0559670414565bf78f692b6343164a1740fa3.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-keev-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0.7,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Atlanta 2017 Challengers"
+                    },
+                    "name": "Sticker | mousesports (Holo) | Atlanta 2017",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/mss_holo.ac44f246696b9ca4b5042ab53b5037c101ee4326.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-mousesports-holo-atlanta-2017",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 55.1,
+                        "rarity": 5.7
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 56.28,
+                "priceBeforeDiscount": 114.28,
+                "extra": {
+                    "stickers": 58
+                },
+                "discount": -0.3038,
+                "computed": 149
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/65ea3446d502e01642eda63ab23cf4e9"
+            }
+        },
+        {
+            "id": 4878343,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198304919913",
+                "botId": 175,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909695577,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/683e7938c629c1914b41e637b9b9e6d6_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+                    "preview": "https://s1.cs.money/683e7938c629c1914b41e637b9b9e6d6_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 657,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.1303009689,
+                "inspect": "5075099675846791339",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": null
+                    },
+                    "name": "Sticker | Pigeon Master",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community02/pigeonmaster.26e6b9c0e83f9a24844372639ebc38eb45e102e0.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-pigeon-master",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1.13,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": null
+                    },
+                    "name": "Sticker | Headshot Guarantee",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community02/headshot_guarantee.aee73783f904f8fda3e56c469e40bbd1c9c69a15.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-headshot-guarantee",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1.28,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": null
+                    },
+                    "name": "Sticker | King on the Field",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community01/black_king.035e7b38aec038134f2dcdb4d5de522738ed285e.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-king-on-the-field",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1220.31,
+                        "rarity": 145
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Operation Riptide Sticker Collection"
+                    },
+                    "name": "Sticker | Great Wave (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/op_riptide/great_wave_holo.55bd1bab13e1670310c57d5551e6b4a59e592682.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-great-wave-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 9.76,
+                        "rarity": 0.9
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 54.11,
+                "priceBeforeDiscount": 201.11,
+                "extra": {
+                    "stickers": 146.1
+                },
+                "discount": 0.1277,
+                "computed": 175.42
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/683e7938c629c1914b41e637b9b9e6d6"
+            }
+        },
+        {
+            "id": 8075538,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198372994348",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 67.72,
+                    "successRate": 63.64
+                }
+            },
+            "asset": {
+                "id": 30693701273,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/23d76f989a0103954f2e92fca87f28d0_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+                    "preview": "https://s1.cs.money/23d76f989a0103954f2e92fca87f28d0_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 614,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.11485882103443146,
+                "inspect": "11836766344651757225",
+                "rank": null
+            },
+            "stickers": [
+                null,
+                null,
+                {
+                    "collection": {
+                        "name": "Sticker Capsule 2"
+                    },
+                    "name": "Sticker | Crown (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stickers2/crown_foil.77c38fe60426ee084fd5c8fec0c680c342e05743.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-crown-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1140.46,
+                        "rarity": 233.2
+                    }
+                },
+                {
+                    "collection": {
+                        "name": null
+                    },
+                    "name": "Sticker | Bomb Squad (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community02/bombsquad_foil.678120e79d6f92e6a0434a74c893630425111106.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-bomb-squad-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 5.15,
+                        "rarity": 0.6
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 289.81,
+                "priceBeforeDiscount": 289.81,
+                "extra": {
+                    "stickers": 233.8
+                },
+                "discount": 0.1719,
+                "computed": 240
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/23d76f989a0103954f2e92fca87f28d0"
+            }
+        },
+        {
+            "id": 5731194,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199014057267",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 29582175562,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a2a156c33b4bdbac7a95d5a5c733bc4c_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+                    "preview": "https://s1.cs.money/a2a156c33b4bdbac7a95d5a5c733bc4c_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 17,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.11611766368150701,
+                "inspect": "11828294031392150759",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "MLG Columbus 2016 Legends"
+                    },
+                    "name": "Sticker | Team EnVyUs (Foil) | MLG Columbus 2016",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/nv_foil.582a538fadf67d59754ae43d3e53643742958521.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-team-envyus-foil-mlg-columbus-2016",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 19.73,
+                        "rarity": 1
+                    }
+                },
+                null,
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Legends"
+                    },
+                    "name": "Sticker | Natus Vincere (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/navi_holo.1e558d56d815cf6fa61700dec67593c74eccb49c.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-natus-vincere-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 761.63,
+                        "rarity": 89.6
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Challengers"
+                    },
+                    "name": "Sticker | Titan (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/titan_holo.c396ae833f3dd0afc1f796e6d457938895c9be24.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-titan-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 896.03,
+                        "rarity": 126
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 310.09,
+                "priceBeforeDiscount": 310.09,
+                "extra": {
+                    "stickers": 216.6
+                },
+                "discount": -0.0319,
+                "computed": 319.98
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a2a156c33b4bdbac7a95d5a5c733bc4c"
+            }
+        },
+        {
+            "id": 7815219,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198309677522",
+                "botId": 25,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30698002180,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 538,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.1126926094,
+                "inspect": "16448531912628785257",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Berlin 2019 Player Autographs"
+                    },
+                    "name": "Sticker | Jame (Foil) | Berlin 2019",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_jame_foil.933697bcda1d57e11c403fabd7dc5d0de966bcec.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-jame-foil-berlin-2019",
+                    "wear": 57,
+                    "pricing": {
+                        "default": 0.41,
+                        "rarity": null
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Berlin 2019 Player Autographs"
+                    },
+                    "name": "Sticker | kennyS (Foil) | Berlin 2019",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_kennys_foil.204e11b5905fea1b1d7bdf0bbafb81a8b93883d1.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-kennys-foil-berlin-2019",
+                    "wear": 58,
+                    "pricing": {
+                        "default": 7.56,
+                        "rarity": null
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Challengers"
+                    },
+                    "name": "Sticker | Flipsid3 Tactics (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_holo.ef2482abaf6ff8ad2ca69ee2aaed880c979cfc56.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-flipsid3-tactics-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 411.9,
+                        "rarity": 106.4
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Challengers"
+                    },
+                    "name": "Sticker | Flipsid3 Tactics (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_holo.ef2482abaf6ff8ad2ca69ee2aaed880c979cfc56.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-flipsid3-tactics-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 411.9,
+                        "rarity": 170.2
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 54.11,
+                "priceBeforeDiscount": 321.71,
+                "extra": {
+                    "stickers": 276.6
+                },
+                "discount": 0.1829,
+                "computed": 262.88
+            },
+            "links": {}
+        },
+        {
+            "id": 6846488,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198796377628",
+                "botId": 2097,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30225636367,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 378,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.1036385298,
+                "inspect": "7073467015781973223",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": null
+                    },
+                    "name": "Sticker | Phoenix (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community02/phoenix_foil.9309042b683acdddc943535dab4a2b140c1905a0.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-phoenix-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 4.43,
+                        "rarity": 0.3
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "CS20 Sticker Capsule"
+                    },
+                    "name": "Sticker | Dragon Lore (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cs20/cs20_dragon_lore_foil.ab02d169fbf52c9426a98f33fa58e7810df91db2.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-dragon-lore-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 23.68,
+                        "rarity": 1.4
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Berlin 2019 Player Autographs"
+                    },
+                    "name": "Sticker | GuardiaN (Gold) | Berlin 2019",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_guardian_gold.c71e4580690b7a216ec470cf9b292965954bcfdd.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-guardian-gold-berlin-2019",
+                    "wear": 74,
+                    "pricing": {
+                        "default": 21.54,
+                        "rarity": null
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Boston 2018 Player Autographs"
+                    },
+                    "name": "Sticker | kennyS (Gold) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_kennys_gold.e506ecb2121a07378dbc2f08481b7648c4e42bec.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-kennys-gold-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1640,
+                        "rarity": 357.9
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 54.11,
+                "priceBeforeDiscount": 413.56,
+                "extra": {
+                    "float": 7,
+                    "stickers": 359.6
+                },
+                "discount": 0.2308,
+                "computed": 318.12
+            },
+            "links": {}
+        },
+        {
+            "id": 7607822,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198312112504",
+                "botId": 121,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 24035648351,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/35dea310c7f5c9bcc1744da651de511e_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+                    "preview": "https://s1.cs.money/35dea310c7f5c9bcc1744da651de511e_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 920,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.1197127551,
+                "inspect": "16486592503217272999",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Skill Groups Capsule"
+                    },
+                    "name": "Sticker | Global Elite (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/skillgroup_capsule/global_elite_normal.6d4d9bab93bdeca36fa9ca34b5204c20407fe58c.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-global-elite-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 11.63,
+                        "rarity": 1.7
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Skill Groups Capsule"
+                    },
+                    "name": "Sticker | Global Elite (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/skillgroup_capsule/global_elite_normal.6d4d9bab93bdeca36fa9ca34b5204c20407fe58c.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-global-elite-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 11.63,
+                        "rarity": 2.5
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Challengers"
+                    },
+                    "name": "Sticker | Keyd Stars (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/keyd_holo.e6114a4c61ef9ffc08976a9aac9023a39b7934d8.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-keyd-stars-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 282.87,
+                        "rarity": 31.2
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Boston 2018 Player Autographs"
+                    },
+                    "name": "Sticker | kennyS (Gold) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_kennys_gold.e506ecb2121a07378dbc2f08481b7648c4e42bec.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-kennys-gold-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1640,
+                        "rarity": 351.6
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 54.11,
+                "priceBeforeDiscount": 443.01,
+                "extra": {
+                    "stickers": 387
+                },
+                "discount": 0.1308,
+                "computed": 385.08
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/35dea310c7f5c9bcc1744da651de511e"
+            }
+        },
+        {
+            "id": 3541161,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307921750",
+                "botId": 229,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910106678,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/aa660bcaacd7c045af8213816c76c946_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+                    "preview": "https://s1.cs.money/aa660bcaacd7c045af8213816c76c946_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 293,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.1417695433,
+                "inspect": "2633561796870986893",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Pinups Capsule"
+                    },
+                    "name": "Sticker | Martha (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/pinups_capsule/martha_holo.9ccaf7701ef58dd9dacba020a78c10022c562ee9.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-martha-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0.85,
+                        "rarity": 0
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Broken Fang Sticker Collection"
+                    },
+                    "name": "Sticker | Coiled Strike (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/broken_fang/coiled_strike_holo.74133c685bb4aee00a3555f81d02d14d58c95431.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-coiled-strike-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0.96,
+                        "rarity": null
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Legends"
+                    },
+                    "name": "Sticker | Fnatic | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/fnatic.933f108d8414959c6ccb902fdad3330ca8eb8310.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-fnatic-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 12,
+                        "rarity": 0.9
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Challengers"
+                    },
+                    "name": "Sticker | Vox Eminor (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_holo.795b3b31d21969cc397ff87be1b969bb479578f8.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-vox-eminor-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1406.77,
+                        "rarity": 545.2
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 54.11,
+                "priceBeforeDiscount": 624.41,
+                "extra": {
+                    "stickers": 546.1
+                },
+                "discount": 0.1308,
+                "computed": 542.75
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/aa660bcaacd7c045af8213816c76c946"
+            }
+        },
+        {
+            "id": 5356182,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307438992",
+                "botId": 901,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26910053899,
+                "names": {
+                    "short": "AWP | Man-o'-war",
+                    "full": "AWP | Man-o'-war (Minimal Wear)",
+                    "identifier": 627
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/73bf64539b1a0b18332acc42cf48872e_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+                    "preview": "https://s1.cs.money/73bf64539b1a0b18332acc42cf48872e_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 609,
+                "type": 4,
+                "collection": {
+                    "name": "Chroma",
+                    "image": null
+                },
+                "float": 0.1164878458,
+                "inspect": "6947484278765285581",
+                "rank": null
+            },
+            "stickers": [
+                null,
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Challengers"
+                    },
+                    "name": "Sticker | Vox Eminor (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_holo.795b3b31d21969cc397ff87be1b969bb479578f8.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-vox-eminor-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1816.74,
+                        "rarity": 442.8
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Challengers"
+                    },
+                    "name": "Sticker | Vox Eminor (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_holo.795b3b31d21969cc397ff87be1b969bb479578f8.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-vox-eminor-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1816.74,
+                        "rarity": 442.8
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Cologne 2014 Challengers"
+                    },
+                    "name": "Sticker | Vox Eminor (Holo) | Cologne 2014",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/voxeminor_holo.c41438bb96e9bfd956db858492bc70e65c81d3be.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-vox-eminor-holo-cologne-2014",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 187.35,
+                        "rarity": 12.6
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 54.11,
+                "priceBeforeDiscount": 1090.51,
+                "extra": {
+                    "stickers": 898.2
+                },
+                "discount": 0.1302,
+                "computed": 948.52
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/73bf64539b1a0b18332acc42cf48872e"
+            }
+        },
+        {
+            "id": 8308412,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198808366815",
+                "botId": 1529,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30858867781,
+                "names": {
+                    "short": "★ Talon Knife | Blue Steel",
+                    "full": "★ Talon Knife | Blue Steel (Field-Tested)",
+                    "identifier": 38884
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Khsj2P67UklRc7cF4n-SPo9X02Afi_xI9MD32IIGSdg5vZV6DrwC-lLjrhcC8uZXLznFjuSMg5mGdwULAGKkujA"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Covert",
+                "pattern": 187,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.1723184288,
+                "inspect": "14315289913523624597",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 616.05,
+                "priceBeforeDiscount": 616.05,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 535.49
+            },
+            "links": {}
+        },
+        {
+            "id": 7210058,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198373139486",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 24.32,
+                    "successRate": 80.3
+                }
+            },
+            "asset": {
+                "id": 30366646117,
+                "names": {
+                    "short": "★ Nomad Knife | Case Hardened",
+                    "full": "★ Nomad Knife | Case Hardened (Minimal Wear)",
+                    "identifier": 1075149
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-EnvvxN4Tdn2xZ_Isoi-3Fpo2t0VCw-xZsYDr7IdCQcANsZ1HQ_AK7wrq5jZS17s6awXpmpGB8sjAKo-eb"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 579,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.093770340085029,
+                "inspect": "5047066320821057029",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 595.51,
+                "priceBeforeDiscount": 595.51,
+                "extra": null,
+                "discount": 0.1889,
+                "computed": 482.99
+            },
+            "links": {}
+        },
+        {
+            "id": 8041757,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198219052279",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30367064499,
+                "names": {
+                    "short": "★ Nomad Knife | Case Hardened",
+                    "full": "★ Nomad Knife | Case Hardened (Minimal Wear)",
+                    "identifier": 1075149
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/b0acd4798eacb26fc96552ef441336aa_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-EnvvxN4Tdn2xZ_Isoi-3Fpo2t0VCw-xZsYDr7IdCQcANsZ1HQ_AK7wrq5jZS17s6awXpmpGB8sjAKo-eb",
+                    "preview": "https://s1.cs.money/b0acd4798eacb26fc96552ef441336aa_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 538,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.13074803352355957,
+                "inspect": "5098156686511496425",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 595.51,
+                "priceBeforeDiscount": 595.51,
+                "extra": null,
+                "discount": 0.1887,
+                "computed": 483.11
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/b0acd4798eacb26fc96552ef441336aa"
+            }
+        },
+        {
+            "id": 2743810,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198871283393",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 25764876374,
+                "names": {
+                    "short": "★ Nomad Knife | Case Hardened",
+                    "full": "★ Nomad Knife | Case Hardened (Minimal Wear)",
+                    "identifier": 1075149
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/eb731eb8a6d540971f84233840c7f78f_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-EnvvxN4Tdn2xZ_Isoi-3Fpo2t0VCw-xZsYDr7IdCQcANsZ1HQ_AK7wrq5jZS17s6awXpmpGB8sjAKo-eb",
+                    "preview": "https://s1.cs.money/eb731eb8a6d540971f84233840c7f78f_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 191,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.09341611713171001,
+                "inspect": "2614377870705097959",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 615.21,
+                "priceBeforeDiscount": 615.21,
+                "extra": null,
+                "discount": -0.0864,
+                "computed": 668.36
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/eb731eb8a6d540971f84233840c7f78f"
+            }
+        },
+        {
+            "id": 8078374,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198086827806",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 3.77,
+                    "successRate": 85.71
+                }
+            },
+            "asset": {
+                "id": 30749539310,
+                "names": {
+                    "short": "★ Ursus Knife | Marble Fade",
+                    "full": "★ StatTrak™ Ursus Knife | Marble Fade (Minimal Wear)",
+                    "identifier": 550072
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJmYGZlfvxDL3Qkm5u5Mx2gv2PrI733gPk8kpsY27zcdDDdFA8YwnRq1K7yerqjMDuupSanCE2unInt2GdwUIKjIk83w"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": null,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": null,
+                "inspect": "9512216879555724703",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 610.45,
+                "priceBeforeDiscount": 610.45,
+                "extra": null,
+                "discount": -0.0332,
+                "computed": 630.72
+            },
+            "links": {}
+        },
+        {
+            "id": 8279814,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198004039198",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 71.78,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 30857306840,
+                "names": {
+                    "short": "AK-47 | Case Hardened",
+                    "full": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)",
+                    "identifier": 1591
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/40c4e5f5dc243dc9ce1119d1297a84eb_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mtYbiJkjoDvcAlj7yVotmtjAfjrkpoZW36IoaWclM3MFnY8lK9k-vnm9bi67lSw9Es",
+                    "preview": "https://s1.cs.money/40c4e5f5dc243dc9ce1119d1297a84eb_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Classified",
+                "pattern": 987,
+                "type": 3,
+                "collection": {
+                    "name": "Arms Deal",
+                    "image": null
+                },
+                "float": 0.12238697707653046,
+                "inspect": "14576511713244621719",
+                "rank": null,
+                "blue": 26,
+                "backSide": 26,
+                "playSide": 26
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 618.08,
+                "priceBeforeDiscount": 618.08,
+                "extra": null,
+                "discount": 0.191,
+                "computed": 500
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/40c4e5f5dc243dc9ce1119d1297a84eb"
+            }
+        },
+        {
+            "id": 7881501,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198412283312",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 5.79,
+                    "successRate": 91.78
+                }
+            },
+            "asset": {
+                "id": 30717155515,
+                "names": {
+                    "short": "AK-47 | Case Hardened",
+                    "full": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)",
+                    "identifier": 1591
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/4b16bd81d8324cdc58640d7759e911f4_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mtYbiJkjoDvcAlj7yVotmtjAfjrkpoZW36IoaWclM3MFnY8lK9k-vnm9bi67lSw9Es",
+                    "preview": "https://s1.cs.money/4b16bd81d8324cdc58640d7759e911f4_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Classified",
+                "pattern": 117,
+                "type": 3,
+                "collection": {
+                    "name": "Arms Deal",
+                    "image": null
+                },
+                "float": 0.12666305899620056,
+                "inspect": "2504087200562603517",
+                "rank": null,
+                "blue": 14,
+                "backSide": 14,
+                "playSide": 14
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 610.06,
+                "priceBeforeDiscount": 610.06,
+                "extra": null,
+                "discount": 0.1724,
+                "computed": 504.9
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/4b16bd81d8324cdc58640d7759e911f4"
+            }
+        },
+        {
+            "id": 8043131,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198148039508",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 6.68,
+                    "successRate": 81.82
+                }
+            },
+            "asset": {
+                "id": 30770513043,
+                "names": {
+                    "short": "AK-47 | Case Hardened",
+                    "full": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)",
+                    "identifier": 1591
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/2f6439b0a3c34835ac4d68a9a77cd1c7_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mtYbiJkjoDvcAlj7yVotmtjAfjrkpoZW36IoaWclM3MFnY8lK9k-vnm9bi67lSw9Es",
+                    "preview": "https://s1.cs.money/2f6439b0a3c34835ac4d68a9a77cd1c7_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Classified",
+                "pattern": 583,
+                "type": 3,
+                "collection": {
+                    "name": "Arms Deal",
+                    "image": null
+                },
+                "float": 0.11528897285461426,
+                "inspect": "12548823965099132857",
+                "rank": null,
+                "blue": 33,
+                "backSide": 33,
+                "playSide": 33
+            },
+            "stickers": [
+                null,
+                null,
+                null,
+                {
+                    "collection": {
+                        "name": "Broken Fang Sticker Collection"
+                    },
+                    "name": "Sticker | Battle Scarred (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/broken_fang/battle_scarred_holo.655bc441df4fffe528bc8d47b397b581d4499606.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-battle-scarred-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 13.24,
+                        "rarity": 0.7
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 618.18,
+                "priceBeforeDiscount": 618.88,
+                "extra": {
+                    "stickers": 0.7
+                },
+                "discount": 0.1759,
+                "computed": 510
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/2f6439b0a3c34835ac4d68a9a77cd1c7"
+            }
+        },
+        {
+            "id": 8274136,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199013118879",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 2.15,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 30732532541,
+                "names": {
+                    "short": "★ Skeleton Knife | Blue Steel",
+                    "full": "★ Skeleton Knife | Blue Steel (Well-Worn)",
+                    "identifier": 1075144
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/ccfc87948d4bb5da72f93ee014a221cf_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0lfvhNr_um25V4dB8xOqYot2j2wPk80VsYGj3cofEcgVrYQzXqAW4wuzuhMW47p3AnXUx6HE8pSGKAFNnh8c",
+                    "preview": "https://s1.cs.money/ccfc87948d4bb5da72f93ee014a221cf_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ww",
+                "rarity": "Covert",
+                "pattern": 5,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.4438811242580414,
+                "inspect": "9831043759942275567",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 608.43,
+                "priceBeforeDiscount": 608.43,
+                "extra": null,
+                "discount": 0.0799,
+                "computed": 559.79
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/ccfc87948d4bb5da72f93ee014a221cf"
+            }
+        },
+        {
+            "id": 6794440,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199093436935",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 7.23,
+                    "successRate": 33.33
+                }
+            },
+            "asset": {
+                "id": 28641036026,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a38063481bdda66b0ceb55fe4587cf2a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/a38063481bdda66b0ceb55fe4587cf2a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 347,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.35826861858367903,
+                "inspect": "7795530960306371838",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 546.29,
+                "priceBeforeDiscount": 546.29,
+                "extra": null,
+                "discount": 0.2044,
+                "computed": 434.62
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a38063481bdda66b0ceb55fe4587cf2a"
+            }
+        },
+        {
+            "id": 8261067,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198052129989",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 536.96,
+                    "successRate": 33.33
+                }
+            },
+            "asset": {
+                "id": 25106870537,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 257,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.278426736593246,
+                "inspect": "17181037626073183408",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 512.09,
+                "priceBeforeDiscount": 512.09,
+                "extra": null,
+                "discount": 0.1513,
+                "computed": 434.62
+            },
+            "links": {}
+        },
+        {
+            "id": 7982545,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311417661",
+                "botId": 166,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30739984358,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/9e242270c3d9f33f54f66bd61a9ef6a0_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/9e242270c3d9f33f54f66bd61a9ef6a0_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 807,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.3589210808,
+                "inspect": "12160258558075122928",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 512.09,
+                "priceBeforeDiscount": 512.09,
+                "extra": null,
+                "discount": 0.1846,
+                "computed": 417.55
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/9e242270c3d9f33f54f66bd61a9ef6a0"
+            }
+        },
+        {
+            "id": 8045673,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198313036556",
+                "botId": 228,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30767504697,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 159,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.3541243076,
+                "inspect": "9532819489450016304",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 512.09,
+                "priceBeforeDiscount": 512.09,
+                "extra": null,
+                "discount": 0.1615,
+                "computed": 429.37
+            },
+            "links": {}
+        },
+        {
+            "id": 8047100,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198795862824",
+                "botId": 777,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30772274683,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 194,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.359768033,
+                "inspect": "9532819489450016304",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 512.09,
+                "priceBeforeDiscount": 512.09,
+                "extra": null,
+                "discount": 0.1615,
+                "computed": 429.37
+            },
+            "links": {}
+        },
+        {
+            "id": 8086585,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198310358344",
+                "botId": 149,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30785179418,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/99e98549aa110e55aba646bc4809fddd_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/99e98549aa110e55aba646bc4809fddd_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 353,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.3587851524,
+                "inspect": "14141835783745583256",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 507.52,
+                "priceBeforeDiscount": 507.52,
+                "extra": null,
+                "discount": 0.154,
+                "computed": 429.37
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/99e98549aa110e55aba646bc4809fddd"
+            }
+        },
+        {
+            "id": 8184757,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198337440279",
+                "botId": 546,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30826517140,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 297,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.3688195348,
+                "inspect": "2621388489295330364",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 512.09,
+                "priceBeforeDiscount": 512.09,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 445.12
+            },
+            "links": {}
+        },
+        {
+            "id": 8257506,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198312553058",
+                "botId": 653,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30852245953,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 976,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.3701170683,
+                "inspect": "631599602009824438",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 512.09,
+                "priceBeforeDiscount": 512.09,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 445.12
+            },
+            "links": {}
+        },
+        {
+            "id": 8308645,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198307190764",
+                "botId": 639,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30857201495,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 679,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.3793047071,
+                "inspect": "2326004165901065244",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 512.09,
+                "priceBeforeDiscount": 512.09,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 445.12
+            },
+            "links": {}
+        },
+        {
+            "id": 7363791,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198303313845",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 7.24,
+                    "successRate": 86.11
+                }
+            },
+            "asset": {
+                "id": 30500851797,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/72da9c922910fca844e5c5734bcb2678_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/72da9c922910fca844e5c5734bcb2678_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 209,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.21018156409263603,
+                "inspect": "14450086212987032246",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 754.62,
+                "priceBeforeDiscount": 754.62,
+                "extra": {
+                    "float": 274.44
+                },
+                "discount": 0.1519,
+                "computed": 640
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/72da9c922910fca844e5c5734bcb2678"
+            }
+        },
+        {
+            "id": 5307126,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198131592499",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 29280132942,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/b100db4fbdb26b55cc2bb6ef3891527a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/b100db4fbdb26b55cc2bb6ef3891527a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 399,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.24790056049823703,
+                "inspect": "3234501644646382264",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 602.95,
+                "priceBeforeDiscount": 602.95,
+                "extra": {
+                    "float": 79.53
+                },
+                "discount": -0.0859,
+                "computed": 654.73
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/b100db4fbdb26b55cc2bb6ef3891527a"
+            }
+        },
+        {
+            "id": 8153311,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198170004773",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30807115856,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/885e564139dd58e2de5c89ac89fb17b8_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/885e564139dd58e2de5c89ac89fb17b8_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 922,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.18641524016857147,
+                "inspect": "3226763382814060564",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 857.64,
+                "priceBeforeDiscount": 857.64,
+                "extra": {
+                    "float": 348.57
+                },
+                "discount": 0.1838,
+                "computed": 700
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/885e564139dd58e2de5c89ac89fb17b8"
+            }
+        },
+        {
+            "id": 7739856,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198982411430",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.95,
+                    "successRate": 95.83
+                }
+            },
+            "asset": {
+                "id": 30672441730,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/fe6b7ba1db356bbed825b9ed159cb524_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/fe6b7ba1db356bbed825b9ed159cb524_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 613,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.1838226467370987,
+                "inspect": "14294748549777094324",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 476.36,
+                "priceBeforeDiscount": 868.88,
+                "extra": {
+                    "float": 392.52
+                },
+                "discount": 0.1253,
+                "computed": 760
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/fe6b7ba1db356bbed825b9ed159cb524"
+            }
+        },
+        {
+            "id": 7068619,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198373139486",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 24.32,
+                    "successRate": 80.3
+                }
+            },
+            "asset": {
+                "id": 30294690528,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/39baf0318a67b089327d885ab075a13a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/39baf0318a67b089327d885ab075a13a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 732,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.159187018871307,
+                "inspect": "4795701323740885628",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 975.67,
+                "priceBeforeDiscount": 975.67,
+                "extra": {
+                    "float": 503.02
+                },
+                "discount": 0.0263,
+                "computed": 949.99
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/39baf0318a67b089327d885ab075a13a"
+            }
+        },
+        {
+            "id": 8308355,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198797301587",
+                "botId": 2225,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30859196069,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 707,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.1866681874,
+                "inspect": "2326004165901065244",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 512.09,
+                "priceBeforeDiscount": 856.54,
+                "extra": {
+                    "float": 344.45
+                },
+                "discount": 0.1308,
+                "computed": 744.53
+            },
+            "links": {}
+        },
+        {
+            "id": 6096735,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199111839402",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 609.42,
+                    "successRate": 33.33
+                }
+            },
+            "asset": {
+                "id": 28416073523,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/cf01901644c17fd2d04094cf2bd53aa9_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c",
+                    "preview": "https://s1.cs.money/cf01901644c17fd2d04094cf2bd53aa9_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 848,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.19667908549308702,
+                "inspect": "17008759412203229298",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 829.44,
+                "priceBeforeDiscount": 829.44,
+                "extra": {
+                    "float": 382.22
+                },
+                "discount": -0.2088,
+                "computed": 1002.63
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/cf01901644c17fd2d04094cf2bd53aa9"
+            }
+        },
+        {
+            "id": 7328387,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198373139486",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 24.32,
+                    "successRate": 80.3
+                }
+            },
+            "asset": {
+                "id": 30475322315,
+                "names": {
+                    "short": "★ Specialist Gloves | Fade",
+                    "full": "★ Specialist Gloves | Fade (Field-Tested)",
+                    "identifier": 24402
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9ukiVXi_xdqMG3xLdOWdlU-aFyC8wS4kuq-gsDv6pnOnCdquykht33D30vgxX_J52c"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Extraordinary",
+                "pattern": 69,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.150996714830398,
+                "inspect": "16873244242256657562",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 1011.17,
+                "priceBeforeDiscount": 1011.17,
+                "extra": {
+                    "float": 564.34
+                },
+                "discount": -0.1373,
+                "computed": 1149.99
+            },
+            "links": {}
+        },
+        {
+            "id": 8305179,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198969258564",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 29.02,
+                    "successRate": 78.57
+                }
+            },
+            "asset": {
+                "id": 30871276682,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/afc04e939d731f121bd3745d7aedf3f2_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/afc04e939d731f121bd3745d7aedf3f2_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 273,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.00897399056702852,
+                "inspect": "16637574851762009537",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 574.54,
+                "priceBeforeDiscount": 574.54,
+                "extra": {
+                    "float": 2.81
+                },
+                "discount": 0.1837,
+                "computed": 469
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/afc04e939d731f121bd3745d7aedf3f2"
+            }
+        },
+        {
+            "id": 8276051,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198025741229",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 2.59,
+                    "successRate": 95.12
+                }
+            },
+            "asset": {
+                "id": 30856442701,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 421,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.05940623208880424,
+                "inspect": "14442026464712048035",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.2,
+                "priceBeforeDiscount": 576.2,
+                "extra": null,
+                "discount": 0.1843,
+                "computed": 469.99
+            },
+            "links": {}
+        },
+        {
+            "id": 8275286,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199029763951",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.5,
+                    "successRate": 91.3
+                }
+            },
+            "asset": {
+                "id": 30831739753,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 633,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.03037180379033089,
+                "inspect": "5378439279755892003",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.82,
+                "priceBeforeDiscount": 576.82,
+                "extra": null,
+                "discount": 0.1661,
+                "computed": 481
+            },
+            "links": {}
+        },
+        {
+            "id": 8164663,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199029763951",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.5,
+                    "successRate": 91.3
+                }
+            },
+            "asset": {
+                "id": 30799512402,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 123,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.03310710191726685,
+                "inspect": "9396451142127665125",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.2,
+                "priceBeforeDiscount": 576.2,
+                "extra": null,
+                "discount": 0.16,
+                "computed": 484
+            },
+            "links": {}
+        },
+        {
+            "id": 7942311,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198120754916",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30236213129,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/498c3fde96a1ed00d5f53240a99c77be_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/498c3fde96a1ed00d5f53240a99c77be_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 108,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.02833397313952446,
+                "inspect": "3370637038584683369",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 608.06,
+                "priceBeforeDiscount": 608.06,
+                "extra": null,
+                "discount": 0.1912,
+                "computed": 491.81
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/498c3fde96a1ed00d5f53240a99c77be"
+            }
+        },
+        {
+            "id": 8273819,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198269426310",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 10.26,
+                    "successRate": 88.26
+                }
+            },
+            "asset": {
+                "id": 30853009819,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 655,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.00728128897026181,
+                "inspect": "14442026464712048035",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.2,
+                "priceBeforeDiscount": 580.86,
+                "extra": {
+                    "float": 4.66
+                },
+                "discount": 0.1409,
+                "computed": 499
+            },
+            "links": {}
+        },
+        {
+            "id": 5994358,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198427614625",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 19077094134,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a97dfbd868bd1e5a978d1ae0b2f16e2b_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/a97dfbd868bd1e5a978d1ae0b2f16e2b_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 490,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.023558054119348,
+                "inspect": "7694015336576808811",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 705.98,
+                "priceBeforeDiscount": 705.98,
+                "extra": null,
+                "discount": 0.2001,
+                "computed": 564.74
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a97dfbd868bd1e5a978d1ae0b2f16e2b"
+            }
+        },
+        {
+            "id": 6541949,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198271370768",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 77.3,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 26908902036,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/819d5b3f16333c050159cf1a620f0a79_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/819d5b3f16333c050159cf1a620f0a79_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 994,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.03402680903673101,
+                "inspect": "9236439095653382627",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.2,
+                "priceBeforeDiscount": 576.2,
+                "extra": null,
+                "discount": -0.0413,
+                "computed": 600
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/819d5b3f16333c050159cf1a620f0a79"
+            }
+        },
+        {
+            "id": 8288022,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198804527809",
+                "botId": 1266,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30836959692,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 487,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0505773723,
+                "inspect": "17215161340970925989",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 571.73,
+                "priceBeforeDiscount": 571.73,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 496.96
+            },
+            "links": {}
+        },
+        {
+            "id": 8046491,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311709702",
+                "botId": 127,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30775103066,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/dbea403e4aef92132f253e502870d2d4_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/dbea403e4aef92132f253e502870d2d4_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 161,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0239584055,
+                "inspect": "2918480749792428007",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 571.73,
+                "priceBeforeDiscount": 571.73,
+                "extra": null,
+                "discount": 0.124,
+                "computed": 500.85
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/dbea403e4aef92132f253e502870d2d4"
+            }
+        },
+        {
+            "id": 8046503,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198311709702",
+                "botId": 127,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30775336900,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/43c2e6c7be72bda22cfd79c67da5abf1_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/43c2e6c7be72bda22cfd79c67da5abf1_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 421,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0330636725,
+                "inspect": "16756958020624833861",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 571.73,
+                "priceBeforeDiscount": 571.73,
+                "extra": null,
+                "discount": 0.124,
+                "computed": 500.85
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/43c2e6c7be72bda22cfd79c67da5abf1"
+            }
+        },
+        {
+            "id": 8184777,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198308361120",
+                "botId": 582,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30826043204,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/7bf42c9ededa579c15da27f7b99829aa_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/7bf42c9ededa579c15da27f7b99829aa_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 115,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0647040159,
+                "inspect": "16582330937029015303",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.2,
+                "priceBeforeDiscount": 576.2,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 500.85
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/7bf42c9ededa579c15da27f7b99829aa"
+            }
+        },
+        {
+            "id": 8307853,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198797301587",
+                "botId": 2225,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30857129597,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 117,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0140622435,
+                "inspect": "16639186580664834025",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.2,
+                "priceBeforeDiscount": 576.2,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 500.85
+            },
+            "links": {}
+        },
+        {
+            "id": 8257086,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198316129582",
+                "botId": 23,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30849554827,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 955,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0025391439,
+                "inspect": "308154357274874635",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.2,
+                "priceBeforeDiscount": 590.21,
+                "extra": {
+                    "float": 14.01
+                },
+                "discount": 0.1308,
+                "computed": 513.03
+            },
+            "links": {}
+        },
+        {
+            "id": 4965147,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198194805959",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 25430296094,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/8cbd29ab954f6d1c89d66f8a10739cd2_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/8cbd29ab954f6d1c89d66f8a10739cd2_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 404,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.023158656433224,
+                "inspect": "12449333110252715341",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 597.68,
+                "priceBeforeDiscount": 597.68,
+                "extra": null,
+                "discount": -0.3954,
+                "computed": 833.98
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/8cbd29ab954f6d1c89d66f8a10739cd2"
+            }
+        },
+        {
+            "id": 7823963,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198986506186",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 41.76,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 30697009095,
+                "names": {
+                    "short": "★ Huntsman Knife | Marble Fade",
+                    "full": "★ Huntsman Knife | Marble Fade (Factory New)",
+                    "identifier": 4145
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/eb6eb7391532793a17d2b9e93edce5e6_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmMbfUqW1Q7MBOhuDG_Zi721GyqERqZG_3d4fEIwA8ZV_XrATrxbzr0cC97Z7BySBiuyV04H7dnAv330-db6QRxg",
+                    "preview": "https://s1.cs.money/eb6eb7391532793a17d2b9e93edce5e6_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 477,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.00114435830619186,
+                "inspect": "17197039317562521357",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 576.2,
+                "priceBeforeDiscount": 597.27,
+                "extra": {
+                    "float": 21.07
+                },
+                "discount": -0.7261,
+                "computed": 1030.93
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/eb6eb7391532793a17d2b9e93edce5e6"
+            }
+        },
+        {
+            "id": 6109097,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198874254640",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 43.66,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 29773366371,
+                "names": {
+                    "short": "★ Bayonet | Bright Water",
+                    "full": "★ Bayonet | Bright Water (Factory New)",
+                    "identifier": 3666
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a4e8cc15d8d9ecdb96344b12d427fd5e_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zAaAJN79m3mr-Amf7yNoTdn2xZ_It12L-T9Ijw0Vfm_0o9NTqldtPAI1VoYFGErwToxee81sS8vJnAmnMypGB8slwaJAje",
+                    "preview": "https://s1.cs.money/a4e8cc15d8d9ecdb96344b12d427fd5e_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 205,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.042095262557268,
+                "inspect": "14334544478194567428",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 590.91,
+                "priceBeforeDiscount": 590.91,
+                "extra": null,
+                "discount": -0.1829,
+                "computed": 699
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a4e8cc15d8d9ecdb96344b12d427fd5e"
+            }
+        },
+        {
+            "id": 7883855,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199365650883",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 28.99,
+                    "successRate": 63.64
+                }
+            },
+            "asset": {
+                "id": 30711892992,
+                "names": {
+                    "short": "★ Skeleton Knife | Case Hardened",
+                    "full": "★ Skeleton Knife | Case Hardened (Battle-Scarred)",
+                    "identifier": 1077115
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/f55b1e40f3febd827476fb466f903d0f_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_unm5Q_tw_i-rHo4rwiQPh80trZmynLdWQdwQ2MwqCr1C4l-_v1MS07c7KzHYy7z5iuygLQw2LTA",
+                    "preview": "https://s1.cs.money/f55b1e40f3febd827476fb466f903d0f_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 105,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.5250363349914551,
+                "inspect": "17015268926309422859",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 582.09,
+                "priceBeforeDiscount": 582.09,
+                "extra": null,
+                "discount": 0.1943,
+                "computed": 469
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/f55b1e40f3febd827476fb466f903d0f"
+            }
+        },
+        {
+            "id": 8043132,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198148039508",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 6.68,
+                    "successRate": 81.82
+                }
+            },
+            "asset": {
+                "id": 30769815596,
+                "names": {
+                    "short": "★ Skeleton Knife | Case Hardened",
+                    "full": "★ Skeleton Knife | Case Hardened (Battle-Scarred)",
+                    "identifier": 1077115
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/f287f1e646493d98b96a3f74a6ad332b_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_unm5Q_tw_i-rHo4rwiQPh80trZmynLdWQdwQ2MwqCr1C4l-_v1MS07c7KzHYy7z5iuygLQw2LTA",
+                    "preview": "https://s1.cs.money/f287f1e646493d98b96a3f74a6ad332b_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 108,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.8881732225418091,
+                "inspect": "11548371651070547851",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 582.09,
+                "priceBeforeDiscount": 582.09,
+                "extra": null,
+                "discount": 0.0723,
+                "computed": 540
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/f287f1e646493d98b96a3f74a6ad332b"
+            }
+        },
+        {
+            "id": 8022452,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198140333392",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30744435698,
+                "names": {
+                    "short": "★ Skeleton Knife | Case Hardened",
+                    "full": "★ Skeleton Knife | Case Hardened (Battle-Scarred)",
+                    "identifier": 1077115
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/910e3be568f6d4228e325ed0d386d37e_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_unm5Q_tw_i-rHo4rwiQPh80trZmynLdWQdwQ2MwqCr1C4l-_v1MS07c7KzHYy7z5iuygLQw2LTA",
+                    "preview": "https://s1.cs.money/910e3be568f6d4228e325ed0d386d37e_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 15,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.9627937078475952,
+                "inspect": "7837635750450844485",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 582.09,
+                "priceBeforeDiscount": 582.09,
+                "extra": null,
+                "discount": -0.0737,
+                "computed": 625
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/910e3be568f6d4228e325ed0d386d37e"
+            }
+        },
+        {
+            "id": 8179859,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198313036556",
+                "botId": 228,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30812835092,
+                "names": {
+                    "short": "★ Skeleton Knife | Case Hardened",
+                    "full": "★ Skeleton Knife | Case Hardened (Battle-Scarred)",
+                    "identifier": 1077115
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_unm5Q_tw_i-rHo4rwiQPh80trZmynLdWQdwQ2MwqCr1C4l-_v1MS07c7KzHYy7z5iuygLQw2LTA"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 165,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.9376507998,
+                "inspect": "16591840040980976931",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 582.09,
+                "priceBeforeDiscount": 582.09,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 505.97
+            },
+            "links": {}
+        },
+        {
+            "id": 5588137,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198844740503",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 590.54,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 29119409849,
+                "names": {
+                    "short": "★ Skeleton Knife | Case Hardened",
+                    "full": "★ Skeleton Knife | Case Hardened (Battle-Scarred)",
+                    "identifier": 1077115
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/9c84c4435af157a257181561ea619a4c_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_unm5Q_tw_i-rHo4rwiQPh80trZmynLdWQdwQ2MwqCr1C4l-_v1MS07c7KzHYy7z5iuygLQw2LTA",
+                    "preview": "https://s1.cs.money/9c84c4435af157a257181561ea619a4c_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 215,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.782167077064514,
+                "inspect": "6973336510548450177",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 590.82,
+                "priceBeforeDiscount": 590.82,
+                "extra": null,
+                "discount": -0.2504,
+                "computed": 738.78
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/9c84c4435af157a257181561ea619a4c"
+            }
+        },
+        {
+            "id": 8195776,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198305185709",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 2.72,
+                    "successRate": 87.01
+                }
+            },
+            "asset": {
+                "id": 30827882709,
+                "names": {
+                    "short": "★ Skeleton Knife | Blue Steel",
+                    "full": "★ Skeleton Knife | Blue Steel (Battle-Scarred)",
+                    "identifier": 1074709
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/8e833eea3a7469477de064c509943106_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0lfvhNr_unm5Q_tw_iL-ZrdSk21Gx80duZWimIYGRdgU9YwzS81a_kOvrhsO878_LnXsw6T5iuygz09LChg",
+                    "preview": "https://s1.cs.money/8e833eea3a7469477de064c509943106_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 154,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.4691528081893921,
+                "inspect": "7782831596780715975",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 584.16,
+                "priceBeforeDiscount": 584.16,
+                "extra": null,
+                "discount": -0.0836,
+                "computed": 633
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/8e833eea3a7469477de064c509943106"
+            }
+        }
+    ]
+}

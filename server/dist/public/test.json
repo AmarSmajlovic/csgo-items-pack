@@ -1,0 +1,121 @@
+[{
+        "id": 5408382,
+        "appId": 730,
+        "seller": {
+            "steamId64": "76561198063090941",
+            "botId": null,
+            "delivery": {
+                "speed": "slow",
+                "medianTime": 132.66,
+                "successRate": 68.42
+            }
+        },
+        "asset": {
+            "id": 29440789883,
+            "names": {
+                "short": "★ Survival Knife | Crimson Web",
+                "full": "★ StatTrak™ Survival Knife | Crimson Web (Factory New)",
+                "identifier": 1077472
+            },
+            "images": {
+                "screenshot": "https://s1.cs.money/4dbdbbc42c3e93ae7295d0f56613dd9c_image.jpg",
+                "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJg4WJhMj4OrzZgiUGupMgjOqWp4_x3FDm8hJsYWulcoaVcgFoM1nZ_Vjox-no08Xo6MzM1zI97YS31G99",
+                "preview": "https://s1.cs.money/4dbdbbc42c3e93ae7295d0f56613dd9c_large_preview.png"
+            },
+            "isSouvenir": false,
+            "isStatTrak": true,
+            "quality": "fn",
+            "rarity": "Covert",
+            "pattern": 168,
+            "type": 2,
+            "collection": {
+                "name": null,
+                "image": null
+            },
+            "float": 0.06861364841461101,
+            "inspect": "12279709746351309304",
+            "rank": null
+        },
+        "stickers": null,
+        "pricing": {
+            "default": 10452.4,
+            "priceBeforeDiscount": 10452.4,
+            "extra": null,
+            "discount": 0.4685,
+            "computed": 5555.55
+        },
+        "links": {
+            "3.0": "https://3d.cs.money/item/4dbdbbc42c3e93ae7295d0f56613dd9c"
+        }
+    },
+    {
+        "id": 8125469,
+        "appId": 730,
+        "seller": {
+            "steamId64": "76561197962046475",
+            "botId": null,
+            "delivery": {
+                "speed": "slow",
+                "medianTime": 412.18,
+                "successRate": 100
+            }
+        },
+        "asset": {
+            "id": 30791335043,
+            "names": {
+                "short": "M4A4 | Howl",
+                "full": "M4A4 | Howl (Factory New)",
+                "identifier": 12606
+            },
+            "images": {
+                "screenshot": "https://s1.cs.money/f151eeb10156e08c264d7098cfb6998a_image.jpg",
+                "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwT09S5g4yCmfDLP7LWnn8f65Mli7DH9tXziQTgqUY4YmmnINSUJwQ-YVnT_wS7yOzngMW07ZrOmmwj5HeObpQQtA",
+                "preview": "https://s1.cs.money/f151eeb10156e08c264d7098cfb6998a_large_preview.png"
+            },
+            "isSouvenir": false,
+            "isStatTrak": false,
+            "quality": "fn",
+            "rarity": "Contraband",
+            "pattern": 228,
+            "type": 3,
+            "collection": {
+                "name": "Huntsman",
+                "image": null
+            },
+            "float": 0.03776842355728149,
+            "inspect": "16898741714207107246",
+            "rank": null
+        },
+        "stickers": [
+            {
+                "collection": {
+                    "name": "Stockholm 2021 Player Autographs"
+                },
+                "name": "Sticker | NiKo (Gold) | Stockholm 2021",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_niko_gold.e15d1442f93bb6183e357a0435798b1d237beae8.png",
+                "wiki": "https://wiki.cs.money/ru/stickers/sticker-niko-gold-stockholm-2021",
+                "wear": 0,
+                "pricing": {
+                    "default": 59.12,
+                    "rarity": 4.9
+                }
+            },
+            null,
+            null,
+            null
+        ],
+        "pricing": {
+            "default": 9154.36,
+            "priceBeforeDiscount": 9154.36,
+            "extra": {
+                "float": 84.84,
+                "stickers": 4.9
+            },
+            "discount": 0.2046,
+            "computed": 7281.45
+        },
+        "links": {
+            "3.0": "https://3d.cs.money/item/f151eeb10156e08c264d7098cfb6998a"
+        }
+    }
+]

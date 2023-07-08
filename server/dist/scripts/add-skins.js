@@ -25,6 +25,9 @@ function init() {
         const uniqueNames = new Set();
         for (const item of skins) {
             const name = (0, helpers_1.skinNameConverter)(item.name, item.category);
+            const imageWithoutBg = yield (0, helpers_1.removeBg)(item.image);
+            const c = yield (0, helpers_1.getPalette)(imageWithoutBg);
+            console.log(item.image, c);
             // Check if the name is already present in the set
             if (!uniqueNames.has(name)) {
                 uniqueNames.add(name);

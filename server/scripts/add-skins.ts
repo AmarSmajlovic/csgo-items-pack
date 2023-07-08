@@ -1,6 +1,10 @@
 import { MongoClient } from "mongodb";
-import { skinNameConverter, customRound } from "../helpers";
-
+import {
+  skinNameConverter,
+  customRound,
+  removeBg,
+  getPalette,
+} from "../helpers";
 import prizes from "../public/skinsprice.json";
 
 async function init() {
@@ -17,6 +21,9 @@ async function init() {
 
   for (const item of skins) {
     const name = skinNameConverter(item.name, item.category);
+    const imageWithoutBg = await removeBg(item.image);
+    const c = await getPalette(imageWithoutBg);
+    console.log(item.image, c);
 
     // Check if the name is already present in the set
     if (!uniqueNames.has(name)) {
